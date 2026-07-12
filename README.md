@@ -58,7 +58,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srimanta2003&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=srimanta2003&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 <!-- Snake Game Repo View -->
