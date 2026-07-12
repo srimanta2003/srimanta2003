@@ -55,19 +55,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srimanta2003&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-### 🔝 Top Contributed Repo
-
 ---
 THANK YOU
